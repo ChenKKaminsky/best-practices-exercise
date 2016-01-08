@@ -1,0 +1,10 @@
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\BestPracticesPlayground.exe.config
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\BestPracticesPlayground.exe
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\BestPracticesPlayground.pdb
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\EntityFramework.dll
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\EntityFramework.xml
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\obj\Debug\BestPracticesPlayground.exe
+c:\users\chen\documents\visual studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\obj\Debug\BestPracticesPlayground.pdb
+C:\Users\chen\Documents\Visual Studio 2015\Projects\BestPracticesPlayground\BestPracticesPlayground\obj\Debug\BestPracticesPlayground.csprojResolveAssemblyReference.cache
